@@ -5,7 +5,7 @@ import type { Difficulty } from './types';
 // 9 vibrant high-contrast colors for Sudoku
 export const SUDOKU_COLORS: { hex: string; name: string }[] = [
   { hex: '#FF0E41', name: 'Red' },      // 0
-  { hex: '#FF510B', name: 'Orange' },   // 1
+  { hex: '#FF8C42', name: 'Orange' },   // 1
   { hex: '#FFCA09', name: 'Amber' },    // 2
   { hex: '#09F04A', name: 'Green' },    // 3
   { hex: '#12FFD1', name: 'Cyan' },     // 4
